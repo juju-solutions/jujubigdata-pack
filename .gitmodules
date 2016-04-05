@@ -1,129 +1,174 @@
 [submodule "layers/apache-spark"]
 	path = layers/apache-spark
 	url = https://github.com/juju-solutions/layer-apache-spark.git
+	branch = master 
 [submodule "interfaces/kafka"]
 	path = interfaces/kafka
 	url = https://github.com/juju-solutions/interface-kafka.git
+	branch = master 
 [submodule "interfaces/zookeeper"]
 	path = interfaces/zookeeper
 	url = https://github.com/juju-solutions/interface-zookeeper.git
+	branch = master 
 [submodule "interfaces/spark"]
 	path = interfaces/spark
 	url = https://github.com/juju-solutions/interface-spark.git
+	branch = master 
 [submodule "layers/apache-flume-kafka"]
 	path = layers/apache-flume-kafka
 	url = https://github.com/juju-solutions/layer-apache-flume-kafka.git
+	branch = master 
 [submodule "layers/apache-kafka"]
 	path = layers/apache-kafka
 	url = https://github.com/juju-solutions/layer-apache-kafka.git
+	branch = master 
 [submodule "layers/apache-flume-hdfs"]
 	path = layers/apache-flume-hdfs
 	url = https://github.com/juju-solutions/layer-apache-flume-hdfs.git
+	branch = master 
 [submodule "layers/apache-flume-twitter"]
 	path = layers/apache-flume-twitter
 	url = https://github.com/juju-solutions/layer-apache-flume-twitter.git
+	branch = master 
 [submodule "layers/apache-flume-syslog"]
 	path = layers/apache-flume-syslog
 	url = https://github.com/juju-solutions/layer-apache-flume-syslog.git
+	branch = master 
 [submodule "layers/apache-flume-base"]
 	path = layers/apache-flume-base
 	url = https://github.com/juju-solutions/layer-apache-flume-base.git
+	branch = master 
 [submodule "interfaces/flume-agent"]
 	path = interfaces/flume-agent
 	url = https://github.com/juju-solutions/interface-flume-agent.git
+	branch = master 
 [submodule "layers/apache-spark-notebook"]
 	path = layers/apache-spark-notebook
 	url = https://github.com/juju-solutions/layer-apache-spark-notebook.git
+	branch = master 
 [submodule "layers/hadoop-base"]
 	path = layers/hadoop-base
 	url = https://github.com/juju-solutions/layer-hadoop-base.git
+	branch = master 
 [submodule "lib/jujubigdata"]
 	path = lib/jujubigdata
 	url = https://github.com/juju-solutions/jujubigdata.git
+	branch = master 
 [submodule "bundles/apache-hadoop-spark-notebook"]
 	path = bundles/apache-hadoop-spark-notebook
 	url = https://github.com/juju-solutions/bundle-apache-hadoop-spark-notebook.git
+	branch = master 
 [submodule "bundles/apache-analytics-sql"]
 	path = bundles/apache-analytics-sql
 	url = https://github.com/juju-solutions/bundle-apache-analytics-sql.git
+	branch = master 
 [submodule "bundles/realtime-syslog-analytics"]
 	path = bundles/realtime-syslog-analytics
 	url = https://github.com/juju-solutions/bundle-realtime-syslog-analytics.git
+	branch = master 
 [submodule "bundles/apache-core-batch-processing"]
 	path = bundles/apache-core-batch-processing
 	url = https://github.com/juju-solutions/bundle-apache-core-batch-processing.git
+	branch = master 
 [submodule "bundles/apache-hadoop-spark-zeppelin"]
 	path = bundles/apache-hadoop-spark-zeppelin
 	url = https://github.com/juju-solutions/bundle-apache-hadoop-spark-zeppelin.git
+	branch = master 
 [submodule "bundles/apache-analytics-pig"]
 	path = bundles/apache-analytics-pig
 	url = https://github.com/juju-solutions/bundle-apache-analytics-pig.git
+	branch = master 
 [submodule "layers/apache-pig"]
 	path = layers/apache-pig
 	url = https://github.com/juju-solutions/layer-apache-pig.git
+	branch = master 
 [submodule "layers/apache-hive"]
 	path = layers/apache-hive
 	url = https://github.com/juju-solutions/layer-apache-hive.git
+	branch = master 
 [submodule "layers/apache-hadoop-plugin"]
 	path = layers/apache-hadoop-plugin
 	url = https://github.com/juju-solutions/layer-apache-hadoop-plugin.git
+	branch = master 
 [submodule "layers/apache-hadoop-namenode"]
 	path = layers/apache-hadoop-namenode
 	url = https://github.com/juju-solutions/layer-apache-hadoop-namenode.git
+	branch = master 
 [submodule "layers/apache-zeppelin"]
 	path = layers/apache-zeppelin
 	url = https://github.com/juju-solutions/layer-apache-zeppelin.git
+	branch = master 
 [submodule "layers/apache-hadoop-resourcemanager"]
 	path = layers/apache-hadoop-resourcemanager
 	url = https://github.com/juju-solutions/layer-apache-hadoop-resourcemanager.git
+	branch = master 
 [submodule "layers/hadoop-client"]
 	path = layers/hadoop-client
 	url = https://github.com/juju-solutions/layer-hadoop-client.git
+	branch = master 
 [submodule "layers/apache-zookeeper"]
 	path = layers/apache-zookeeper
 	url = https://github.com/juju-solutions/layer-apache-zookeeper.git
+	branch = master 
 [submodule "layers/gobblin"]
 	path = layers/gobblin
 	url = https://github.com/juju-solutions/layer-gobblin.git
+	branch = master 
 [submodule "layers/apache-hadoop-slave"]
 	path = layers/apache-hadoop-slave
 	url = https://github.com/juju-solutions/layer-apache-hadoop-slave.git
+	branch = master 
 [submodule "layers/apache-hadoop-nodemanager"]
 	path = layers/apache-hadoop-nodemanager
 	url = https://github.com/juju-solutions/layer-apache-hadoop-nodemanager.git
+	branch = master 
 [submodule "layers/apache-hadoop-datanode"]
 	path = layers/apache-hadoop-datanode
 	url = https://github.com/juju-solutions/layer-apache-hadoop-datanode.git
+	branch = master 
 [submodule "layers/hadoop-ganglia"]
 	path = layers/hadoop-ganglia
 	url = https://github.com/juju-solutions/layer-hadoop-ganglia.git
+	branch = master 
 [submodule "interfaces/hive"]
 	path = interfaces/hive
 	url = https://github.com/juju-solutions/interface-hive.git
+	branch = master 
 [submodule "interfaces/hadoop-plugin"]
 	path = interfaces/hadoop-plugin
 	url = https://github.com/juju-solutions/interface-hadoop-plugin.git
+	branch = master 
 [submodule "interfaces/mapred"]
 	path = interfaces/mapred
 	url = https://github.com/juju-solutions/interface-mapred.git
+	branch = master 
 [submodule "interfaces/mapred-slave"]
 	path = interfaces/mapred-slave
 	url = https://github.com/juju-solutions/interface-mapred-slave.git
+	branch = master 
 [submodule "interfaces/dfs-slave"]
 	path = interfaces/dfs-slave
 	url = https://github.com/juju-solutions/interface-dfs-slave.git
+	branch = master 
 [submodule "interfaces/dfs"]
 	path = interfaces/dfs
 	url = https://github.com/juju-solutions/interface-dfs.git
+	branch = master 
 [submodule "interfaces/syslog"]
 	path = interfaces/syslog
 	url = https://github.com/juju-solutions/interface-syslog.git
+	branch = master 
 [submodule "interfaces/zookeeper-quorum"]
 	path = interfaces/zookeeper-quorum
 	url = https://github.com/juju-solutions/interface-zookeeper-quorum.git
+	branch = master 
 [submodule "docs/bigdata-community"]
 	path = docs/bigdata-community
 	url = https://github.com/juju-solutions/bigdata-community.git
+	branch = master
 [submodule "layers/gobblin-binary-builder"]
 	path = layers/gobblin-binary-builder
 	url = https://github.com/juju-solutions/layer-gobblin-binary-builder
+	branch = master
+[submodule "layers.apache-kafka"]
+	branch = master
