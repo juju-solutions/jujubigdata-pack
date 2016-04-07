@@ -12,5 +12,10 @@ usual run
 ```
 % git submodule update --init --recursive
 ```
-If you just about to clone the repository, add `--recursive` to clone operation
-and everything will be fetched automaticall.
+If you just want to clone the repository, add `--recursive` to clone operation
+and everything will be fetched automatically. The submodules are setup to track
+the master branch of the respective each repositories. To update the submodules
+you can:
+```
+% git submodule update --remote
+```
