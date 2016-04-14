@@ -193,3 +193,6 @@
 [submodule "layers/apache-bigtop-plugin"]
 	path = layers/apache-bigtop-plugin
 	url = https://github.com/c0s/juju-apache-bigtop-plugin.git
+[submodule "layers/apache-bigtop-datanode"]
+	path = layers/apache-bigtop-datanode
+	url = https://github.com/c0s/juju-apache-bigtop-datanode.git
