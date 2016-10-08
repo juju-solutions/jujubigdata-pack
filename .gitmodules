@@ -172,3 +172,27 @@
 	branch = master
 [submodule "layers.apache-kafka"]
 	branch = master
+[submodule "layers/apache-bigtop-base"]
+	path = layers/apache-bigtop-base
+	url = https://github.com/c0s/juju-apache-bigtop.git
+[submodule "layers/apache-bigtop-namenode"]
+	path = layers/apache-bigtop-namenode
+	url = https://github.com/c0s/juju-apache-bigtop-namenode.git
+[submodule "bundles/apache-bigtop-hadoop"]
+	path = bundles/apache-bigtop-hadoop
+	url = https://github.com/c0s/juju-bundle-apache-bigtop-hadoop.git
+[submodule "layers/apache-bigtop-nodemanager"]
+	path = layers/apache-bigtop-nodemanager
+	url = https://github.com/c0s/juju-apache-bigtop-nodemanager.git
+[submodule "layers/apache-bigtop-resourcemanager"]
+	path = layers/apache-bigtop-resourcemanager
+	url = https://github.com/c0s/juju-apache-bigtop-resourcemanager.git
+[submodule "layers/apache-bigtop-slave"]
+	path = layers/apache-bigtop-slave
+	url = https://github.com/c0s/juju-apache-bigtop-slave.git
+[submodule "layers/apache-bigtop-plugin"]
+	path = layers/apache-bigtop-plugin
+	url = https://github.com/c0s/juju-apache-bigtop-plugin.git
+[submodule "layers/apache-bigtop-datanode"]
+	path = layers/apache-bigtop-datanode
+	url = https://github.com/c0s/juju-apache-bigtop-datanode.git
